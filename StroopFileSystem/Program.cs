@@ -1,4 +1,7 @@
-﻿using System;
+﻿//This project implements a task for sorting images with Stroop effects.
+//The C# program monitors if each image is sorted correctly.
+
+using System;
 using System.IO;
 using System.Security.Permissions;
 using System.Collections.Generic;
